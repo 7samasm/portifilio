@@ -209,7 +209,7 @@ export const projects: ProjectType[] = [
     name: "SudaShop_nuxt",
     desc: "an Ecommerce website built by vue & nuxtJs",
     github: "https://github.com/7samasm/SudaShop_Next",
-    // link: "https://developer-portfolio-1hanzla100.vercel.app/",
+    link: "https://fashionable-germain-suda-shop-c0f705da.koyeb.app/",
   },
 ];
 
